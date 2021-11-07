@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my profile my name is zunzu (Punyapat Chanthakhun)</h1>
 <h3 align="center">Just Student that interesting in Software Engineering</h3>
 
-- 🔭 I’m currently working on **Secret Work**
+- 🔭 My finished works or reserch **Self-Driving Car : Won 1st**
 
 - 🌱 I’m currently learning **OpenCV and more**
 
