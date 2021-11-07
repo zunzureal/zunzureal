@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **Secret Work**
 
-- 🤝 I’m looking for help with **-**
+- 🤝 I’m student in **English Program Phitsanulok Pittayakom**
 
 - 💬 Ask me about **Anything that i can answer**
 
 - 📫 How to reach me **zunzu212547@gmail.com**
 
-- ⚡ Fun fact **I like watching anime and making music**
+- ⚡ Fun fact **I like watching anime , making music and most of my works are secret**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
