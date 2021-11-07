@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **zunzu212547@gmail.com**
 
-- ⚡ Fun fact **I like watching anime**
+- ⚡ Fun fact **I like watching anime and making music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
