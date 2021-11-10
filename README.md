@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Anything that i can answer**
 
-- 📫 How to reach me **zunzu212547@gmail.com**
+- 📫 How to reach me **zunzureal@gmail.com**
 
 - ⚡ Fun fact **I like watching anime , making music and most of my works are secret**
 
