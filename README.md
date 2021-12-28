@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile my name is zunzu (Punyapat Chanthakhun)</h1>
-<h3 align="center">Just Student that interesting in Software Engineering</h3>
+<h3 align="center">Just Student that interesting in Engineering</h3>
 
 - 🔭 My finished works or reserch **Self-Driving Car (RaspberryPi and Arduino) : Won Gold medal , Reserch : Real Time Face Recognition and Motion capture**
 
