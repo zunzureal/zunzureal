@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Secret Work**
 
-- 🤝 I’m student in **English Program Phitsanulok Pittayakom**
+- 🤝 I’m student in **English Program Phitsanulok Pittayakom (2016-2022)**
 
 - 💬 Ask me about **Anything that i can answer**
 
