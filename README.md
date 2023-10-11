@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Secret Work**
 
-- 🤝 I’m student in **Computer Engineer Srinakharinwirot University**
+- 🤝 I’m student in **Computer Engineering at Srinakharinwirot University**
 
 - 💬 Ask me about **Anything that i can answer**
 
