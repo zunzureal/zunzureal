@@ -2,7 +2,9 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/8nhlhu.gif"  />
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9kNGs4dnQwNTY1dHo1ZTVkeHI2MnZsaHo0NjY4bmxoNTd2dGZkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpD9MSoHInRWusOZ8X/giphy.gif"  />
+</div>
 
 ###
 
